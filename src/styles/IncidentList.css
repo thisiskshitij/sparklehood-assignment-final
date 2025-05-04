@@ -1,0 +1,62 @@
+.incident-list {
+    margin-top: 20px;
+  }
+  
+  .controls {
+    margin-bottom: 20px;
+  }
+  
+  .controls label {
+    margin-right: 15px;
+  }
+  
+  .controls select {
+    padding: 5px;
+    margin: 0 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table th, table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .badge {
+    padding: 5px;
+    border-radius: 4px;
+  }
+  
+  .badge.low {
+    background-color: #c2f0c2;
+  }
+  
+  .badge.medium {
+    background-color: #ffcc99;
+  }
+  
+  .badge.high {
+    background-color: #ff6666;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #006699;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #004d66;
+  }
+  
+  .description-row {
+    background-color: #f9f9f9;
+  }
+  

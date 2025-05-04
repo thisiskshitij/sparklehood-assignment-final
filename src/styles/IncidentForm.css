@@ -1,0 +1,46 @@
+.incident-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .incident-form h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .incident-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 16px;
+  }
+  
+  .incident-form input, .incident-form select, .incident-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  .incident-form textarea {
+    height: 120px;
+  }
+  
+  .incident-form button {
+    padding: 10px 20px;
+    background-color: #006699;
+    border: none;
+    color: white;
+    font-size: 16px;
+    width: 100%;
+  }
+  
+  .incident-form button:hover {
+    background-color: #004d66;
+  }
+  
